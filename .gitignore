@@ -1,0 +1,10 @@
+*.fa
+*.fai
+*.fasta
+*.fastq
+*.sam
+*.bam
+*.gz
+*.index
+output
+unmapped
