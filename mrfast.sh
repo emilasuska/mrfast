@@ -1,3 +1,5 @@
+#!/bin/bash
+
 set -e
 
 # Check if the mrfast docker image has not yet been built.
